@@ -9,3 +9,8 @@ Project is connectet to the reseatch of key metrics and AB testig in gaming. Com
  - Data analysys library Pandas (Python)
  - Math and statistic libraries (Mapplotlib, Scipy)
  - Visualisation libraries (Seaborn,Matplotlib)
+ ## Datasets 
+ - TASK 1(RETENTION): Registration data logs and authorisation data
+ - Task2 (AB testing of metrics) : Revenue of control and test groups
+
+
