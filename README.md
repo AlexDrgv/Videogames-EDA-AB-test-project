@@ -1,9 +1,9 @@
 # Videogames-EDA-AB-test-project
-Project is connectet to the reseatch of key metrics and AB testig in gaming. Company key product needs to be improved.There are few datasets of user behaviour and there are few thigs to be done
+Project is connected to the research of key metrics and AB testig in gaming. Company key product needs to be improved.There are few datasets of user behaviour and there are few thigs to be done
   ## Goals to be done:
   1. Calculate user retention and write the function to make it more univesal
   
-  2. New feature about to launch. research Revenue metrics in control and test group is required  and make a conclusion if there's an impact or not.Results of A/B testing will explain 
+  2. New feature about to launch. research Revenue metrics in control and test group is required  and make a conclusion if there's an impact or not. Results of A/B testing may explain   the pattern
 
  ## Instruments
  - Jupyter notebook
